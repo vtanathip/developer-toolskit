@@ -2,6 +2,8 @@
 My JavaScript Footprint
 
 ## Interesting Modules
+### HTTP
+[got](https://www.npmjs.com/package/got) :- Human-friendly and powerful HTTP request library for Node.js
 ### Utilities
 [chalk](https://www.npmjs.com/package/chalk) :- Terminal string styling 
 
